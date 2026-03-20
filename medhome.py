@@ -15,7 +15,7 @@ from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
 # ============================================================
-# КОНФИГУРАЦИЯ
+# КОНФІГУРАЦІЯ
 # ============================================================
 
 CONFIG = {
@@ -27,27 +27,31 @@ CONFIG = {
     "aggregator_name": "prom.ua",
     "output_file": "public/medhome_reviews_feed.xml",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "max_test_pages": 5  # ЛІМІТ СТОРІНОК ДЛЯ ТЕСТУ (змініть на None для повного парсингу)
 }
 
-logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(message)s")
+logging.basicConfig(
+    level=logging.INFO, 
+    format="%(asctime)s [%(levelname)s] %(message)s",
+    handlers=[logging.StreamHandler(sys.stdout)]
+)
 log = logging.getLogger("medhome_parser")
 
 # ============================================================
-# ВСПОМОГАТЕЛЬНЫЕ ФУНКЦИИ
+# ДОПОМІЖНІ ФУНКЦІЇ
 # ============================================================
 
 def clean_text(text):
-    """Очистка текста от HTML и спецсимволов для XML"""
+    """Очищення тексту від HTML та спецсимволів для XML"""
     if not text: return ""
-    text = re.sub(r'<[^>]*>', '', str(text)) # Удаляем HTML-теги
-    text = re.sub(r'\s+', ' ', text).strip() # Чистим пробелы
+    text = re.sub(r'<[^>]*>', '', str(text)) # Видаляємо HTML-теги
+    text = re.sub(r'\s+', ' ', text).strip() # Чистимо пробіли
     return saxutils.escape(text)
 
 def format_date(date_str):
-    """Приведение даты к стандарту RFC3339 (ISO 8601) для Google"""
+    """Приведення дати до стандарту RFC3339 (ISO 8601) для Google"""
     if not date_str:
         return datetime.now().strftime("%Y-%m-%dT%H:%M:%S+02:00")
-    # Если дата пришла как 2024-02-12, делаем 2024-02-12T00:00:00+02:00
     if "T" not in date_str:
         date_str = f"{date_str}T00:00:00"
     if "+" not in date_str and "Z" not in date_str:
@@ -62,18 +66,17 @@ def create_session():
     return session
 
 # ============================================================
-# ПАРСИНГ
+# ЛОГІКА ПАРСИНГУ
 # ============================================================
 
 def parse_product_feed(session):
-    log.info("Загрузка товарного фида...")
+    log.info("Завантаження товарного фіда...")
     try:
         resp = session.get(CONFIG["product_feed_url"], timeout=45)
         resp.raise_for_status()
         soup = BeautifulSoup(resp.content, "xml")
         products = {}
         for item in soup.find_all("item"):
-            # Безопасное извлечение (п.1 аудита - проверка существования тега)
             p_id_tag = item.find("g:id")
             link_tag = item.find("g:link")
             if not p_id_tag or not link_tag: continue
@@ -90,21 +93,21 @@ def parse_product_feed(session):
                 "brand": clean_text(item.find("g:brand").text) if item.find("g:brand") else "Medhome",
                 "mpn": item.find("g:mpn").text.strip() if item.find("g:mpn") else p_id
             }
-        log.info(f"Найдено {len(products)} товаров")
+        log.info(f"Знайдено {len(products)} товарів")
         return products
     except Exception as e:
-        log.error(f"Ошибка фида: {e}")
+        log.error(f"Помилка фіда: {e}")
         return {}
 
 def collect_reviews(session):
     all_reviews = []
     current_page = 1
     max_pages = None
-    seen_review_hashes = set() # Для удаления дублей (п.9 аудита)
+    seen_review_hashes = set() # Видалення дублів
     
     while True:
         url = CONFIG["testimonials_url"] if current_page == 1 else f"{CONFIG['testimonials_url']}/page_{current_page}"
-        log.info(f"Парсинг страницы {current_page}...")
+        log.info(f"Обробка сторінки {current_page}...")
         
         try:
             resp = session.get(url, timeout=30)
@@ -120,22 +123,20 @@ def collect_reviews(session):
                 
                 author = clean_text(author_el.get_text())
                 date_iso = it.select_one('[data-qaid="review_date"]').get("datetime", "")
-                text = it.select_one('[data-qaid="review_text"]').get_text() if it.select_one('[data-qaid="review_text"]') else ""
+                text_el = it.select_one('[data-qaid="review_text"]')
+                text = text_el.get_text() if text_el else ""
                 
-                # Уникальность: автор + дата + текст
                 r_hash = hashlib.md5(f"{author}{date_iso}{text[:50]}".encode()).hexdigest()
                 if r_hash in seen_review_hashes: continue
                 seen_review_hashes.add(r_hash)
 
-                # Рейтинг
                 rating = 5
                 rt_el = it.select_one(".b-rating__state")
                 if rt_el:
                     rt_t = rt_el.get_text().lower()
-                    if "добре" in rt_t or "хорошо" in rt_t: rating = 4
+                    if any(w in rt_t for w in ["добре", "хорошо"]): rating = 4
                     elif "норм" in rt_t: rating = 3
 
-                # Связанные товары
                 prods_data = []
                 prod_wrapper = it.select_one('[data-reviews-products]')
                 if prod_wrapper:
@@ -156,12 +157,16 @@ def collect_reviews(session):
                 if paginator:
                     max_pages = int(paginator.get("data-pagination-pages-count", 1))
 
-            if max_pages and current_page >= max_pages: break
+            # ЛІМІТ СТОРІНОК (Ось тут ми обмежуємо до 5 для тесту)
+            if (CONFIG["max_test_pages"] and current_page >= CONFIG["max_test_pages"]) or (max_pages and current_page >= max_pages):
+                log.info(f"Досягнуто ліміту сторінок ({current_page}). Завершуємо збір.")
+                break
+
             current_page += 1
             time.sleep(random.uniform(1.2, 2.2))
             
         except Exception as e:
-            log.error(f"Ошибка на стр {current_page}: {e}")
+            log.error(f"Помилка на сторінці {current_page}: {e}")
             break
             
     return all_reviews
@@ -176,10 +181,8 @@ def generate_xml(matched_data):
     ]
     
     for rev, prod in matched_data:
-        # Усиленный ID (п.4 аудита)
         r_id = hashlib.md5(f"{rev['author']}{rev['date_iso']}{rev['text'][:20]}{prod['id']}".encode()).hexdigest()[:12]
         
-        # Контент с fallback (п.3 аудита)
         raw_content = rev['text'] if rev['text'] else "Відмінний товар"
         if rev['tags']: raw_content += ". " + ". ".join(rev['tags'])
         content = clean_text(raw_content)
@@ -208,11 +211,14 @@ def generate_xml(matched_data):
     return "\n".join(lines)
 
 def main():
+    log.info("=== Запуск парсера (Тестовий режим: 5 сторінок) ===")
     session = create_session()
     prods = parse_product_feed(session)
     if not prods: return
     
     reviews = collect_reviews(session)
+    log.info(f"Зібрано {len(reviews)} відгуків. Починаємо матчинг...")
+    
     matched = []
     for r in reviews:
         for rp in r['products']:
@@ -220,14 +226,14 @@ def main():
                 matched.append((r, prods[rp['id']]))
                 
     if not matched:
-        log.warning("Нет совпадений товаров и отзывов.")
+        log.warning("Збігів не знайдено.")
         return
 
     os.makedirs('public', exist_ok=True)
     with open(CONFIG["output_file"], "w", encoding="utf-8") as f:
         f.write(generate_xml(matched))
     
-    log.info(f"Успех! Файл обновлен. Смерджено отзывов: {len(matched)}")
+    log.info(f"Успіх! Збережено {len(matched)} відгуків у {CONFIG['output_file']}")
 
 if __name__ == "__main__":
     main()
