@@ -199,7 +199,7 @@ def main():
     if not prods: return
     
     # Для теста берем 3 страницы, уберите limit для полного парсинга
-    reviews = collect_reviews(session, max_pages=3) 
+    reviews = collect_reviews(session) 
     
     matched = []
     for r in reviews:
