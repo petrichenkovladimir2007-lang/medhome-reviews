@@ -1,0 +1,33 @@
+name: Update Reviews Feed
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Запуск каждую полночь
+  workflow_dispatch:      # Позволяет запускать кнопкой вручную
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Run parser
+        run: python medhome.py
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add public/medhome_reviews_feed.xml
+          git commit -m "Update reviews feed [skip ci]" || exit 0
+          git push
