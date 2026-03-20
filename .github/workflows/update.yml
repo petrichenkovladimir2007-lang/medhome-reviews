@@ -2,17 +2,18 @@ name: Update Medhome Feed
 
 on:
   schedule:
-    - cron: '0 3 * * *' # Каждый день в 5 утра по Киеву
-  workflow_dispatch: # Чтобы можно было запустить вручную
+    - cron: '0 3 * * *'
+  workflow_dispatch: 
 
 permissions:
   contents: write
 
 jobs:
-  run-parser:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout code
+        uses: actions/checkout@v3
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -20,12 +21,24 @@ jobs:
           python-version: '3.10'
 
       - name: Install dependencies
-        run: pip install requests beautifulsoup4 lxml
+        run: |
+          pip install requests beautifulsoup4 lxml
 
-      - name: Run script
+      - name: Run parser
+        run: |
+          # Запускаем скрипт. Он создаст файл medhome_reviews_feed.xml в корне
+          python medhome.py
+
+      - name: Prepare and Move
         run: |
           mkdir -p public
-          python medhome.py --output public/medhome_reviews_feed.xml
+          # Перемещаем файл, если он создался
+          if [ -f "medhome_reviews_feed.xml" ]; then
+            mv medhome_reviews_feed.xml public/
+          else
+            echo "Ошибка: Скрипт не создал XML-файл!"
+            exit 1
+          fi
 
       - name: Commit and Push
         run: |
