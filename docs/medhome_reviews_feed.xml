@@ -1,0 +1,757 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.google.com/shopping/reviews/schema/product/2.3/product_reviews.xsd">
+  <version>2.3</version><aggregator><n>prom.ua</n></aggregator>
+  <publisher><n>medhome.in.ua</n><favicon>https://medhome.in.ua/favicon.ico</favicon></publisher>
+  <reviews>
+    <review>
+      <review_id>d4a8958a8b75</review_id>
+      <reviewer><n>Александр С.</n></reviewer>
+      <review_timestamp>2026-03-20T23:15:57+02:00</review_timestamp>
+      <content>Відмінний товар. Гарне обслуговування. Актуальний опис. Швидко відправили. Ввічливий продавець. Актуальна ціна. Товар був у наявності</content>
+      <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
+      <ratings><overall min="1" max="5">5</overall></ratings>
+      <products><product><product_ids>
+            <mpns><mpn>2790847587</mpn></mpns>
+            <brands><brand>CGM</brand></brands>
+      </product_ids>
+      <product_name>Сенсор Linx система мониторинга глюкозы Линкс</product_name>
+      <product_url>https://medhome.in.ua/p2790847587-sensor-linx-sistema.html?source=merchant_center</product_url>
+      </product></products>
+    </review>
+    <review>
+      <review_id>33f1993b0000</review_id>
+      <reviewer><n>Тетяна З.</n></reviewer>
+      <review_timestamp>2026-03-20T09:29:48+02:00</review_timestamp>
+      <content>Дякую. Гарне обслуговування. Актуальний опис. Швидко відправили. Ввічливий продавець. Товар був у наявності</content>
+      <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
+      <ratings><overall min="1" max="5">5</overall></ratings>
+      <products><product><product_ids>
+            <mpns><mpn>1885085669</mpn></mpns>
+            <brands><brand>Thuasne</brand></brands>
+      </product_ids>
+      <product_name>Гольфы женские компрессионные Venoflex Micro 2 класс с открытым носком, карамельные, удлиненные</product_name>
+      <product_url>https://medhome.in.ua/p1885085669-golfy-zhenskie-kompressionnye.html?source=merchant_center</product_url>
+      </product></products>
+    </review>
+    <review>
+      <review_id>83cb0f8b7dea</review_id>
+      <reviewer><n>Альона М.</n></reviewer>
+      <review_timestamp>2026-03-19T13:02:18+02:00</review_timestamp>
+      <content>Відмінний товар. Гарне обслуговування. Швидко відправили. Ввічливий продавець. Актуальна ціна. Товар був у наявності</content>
+      <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
+      <ratings><overall min="1" max="5">5</overall></ratings>
+      <products><product><product_ids>
+            <mpns><mpn>1800341419</mpn></mpns>
+            <brands><brand>ОSD</brand></brands>
+      </product_ids>
+      <product_name>Стальной разборной стул-туалет OSD-BL710112</product_name>
+      <product_url>https://medhome.in.ua/p1800341419-stalnoj-razbornoj-stul.html?source=merchant_center</product_url>
+      </product></products>
+    </review>
+    <review>
+      <review_id>861758e3fb66</review_id>
+      <reviewer><n>Ирина С.</n></reviewer>
+      <review_timestamp>2026-03-19T12:17:24+02:00</review_timestamp>
+      <content>Дякую за швидку доставку.Рекомендую.</content>
+      <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
+      <ratings><overall min="1" max="5">5</overall></ratings>
+      <products><product><product_ids>
+            <mpns><mpn>2790847587</mpn></mpns>
+            <brands><brand>CGM</brand></brands>
+      </product_ids>
+      <product_name>Сенсор Linx система мониторинга глюкозы Линкс</product_name>
+      <product_url>https://medhome.in.ua/p2790847587-sensor-linx-sistema.html?source=merchant_center</product_url>
+      </product></products>
+    </review>
+    <review>
+      <review_id>3c7a44b8a17d</review_id>
+      <reviewer><n>Маряна</n></reviewer>
+      <review_timestamp>2026-03-19T11:21:03+02:00</review_timestamp>
+      <content>Приємне обслуговування, якісний товар</content>
+      <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
+      <ratings><overall min="1" max="5">5</overall></ratings>
+      <products><product><product_ids>
+            <mpns><mpn>1814070257</mpn></mpns>
+            <brands><brand>Aurafix</brand></brands>
+      </product_ids>
+      <product_name>Ортез Aurafix (Аурафикс) 745А с регулировкой угла сгибания, 55 см</product_name>
+      <product_url>https://medhome.in.ua/p1814070257-ortez-aurafix-aurafiks.html?source=merchant_center</product_url>
+      </product></products>
+    </review>
+    <review>
+      <review_id>39daf9529ebf</review_id>
+      <reviewer><n>Юлія С.</n></reviewer>
+      <review_timestamp>2026-03-19T10:01:30+02:00</review_timestamp>
+      <content>Відмінний товар. Гарне обслуговування. Актуальний опис. Швидко відправили. Ввічливий продавець. Актуальна ціна. Товар був у наявності</content>
+      <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
+      <ratings><overall min="1" max="5">5</overall></ratings>
+      <products><product><product_ids>
+            <mpns><mpn>2661107994</mpn></mpns>
+            <brands><brand>Nature's Sunshine Products</brand></brands>
+      </product_ids>
+      <product_name>Black Walnut, Грецкий черный орех, Nature’s Sunshine Products, 100 капсул, США, Антипаразитарный</product_name>
+      <product_url>https://medhome.in.ua/p2661107994-black-walnut-gretskij.html?source=merchant_center</product_url>
+      </product></products>
+    </review>
+    <review>
+      <review_id>573932390ce4</review_id>
+      <reviewer><n>Роман Щ.</n></reviewer>
+      <review_timestamp>2026-03-18T17:01:51+02:00</review_timestamp>
+      <content>Замовляли стілець туалет. Якістю товару задоволені на всі 100, міцна конструкція з можливістю регулювання висоти. Окрема подяка продавцю консультанту за консультацію та підбір товару. Рекомендуємо до покупки👍🏼</content>
+      <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
+      <ratings><overall min="1" max="5">5</overall></ratings>
+      <products><product><product_ids>
+            <mpns><mpn>1520575357</mpn></mpns>
+            <brands><brand>Doctor Life</brand></brands>
+      </product_ids>
+      <product_name>Стул туалетный складной стальной, регулирующий по высоте - Doctor Life 12627</product_name>
+      <product_url>https://medhome.in.ua/p1520575357-stul-tualetnyj-skladnoj.html?source=merchant_center</product_url>
+      </product></products>
+    </review>
+    <review>
+      <review_id>77a4a74b27bd</review_id>
+      <reviewer><n>Дмитрий В.</n></reviewer>
+      <review_timestamp>2026-03-18T14:56:09+02:00</review_timestamp>
+      <content>Всё супер приехала быстро и то что я хотел. Швидко відправили</content>
+      <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
+      <ratings><overall min="1" max="5">5</overall></ratings>
+      <products><product><product_ids>
+            <mpns><mpn>2186704520</mpn></mpns>
+            <brands><brand>ОSD</brand></brands>
+      </product_ids>
+      <product_name>Роллер стальной OSD-RB-91040RW</product_name>
+      <product_url>https://medhome.in.ua/p2186704520-roller-stalnoj-osd.html?source=merchant_center</product_url>
+      </product></products>
+    </review>
+    <review>
+      <review_id>63e9eda68728</review_id>
+      <reviewer><n>Анна Л.</n></reviewer>
+      <review_timestamp>2026-03-18T08:44:21+02:00</review_timestamp>
+      <content>Відмінний товар. Гарне обслуговування. Актуальний опис. Швидко відправили. Ввічливий продавець. Актуальна ціна. Товар був у наявності</content>
+      <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
+      <ratings><overall min="1" max="5">5</overall></ratings>
+      <products><product><product_ids>
+            <mpns><mpn>1865536461</mpn></mpns>
+            <brands><brand>Лежебока</brand></brands>
+      </product_ids>
+      <product_name>Подушка для мягкой фиксации шейного отдела позвоночника ТМ Лежебока, шарики пенополистирола</product_name>
+      <product_url>https://medhome.in.ua/p1865536461-podushka-dlya-myagkoj.html?source=merchant_center</product_url>
+      </product></products>
+    </review>
+    <review>
+      <review_id>5a32bd86cfeb</review_id>
+      <reviewer><n>Михайло Б.</n></reviewer>
+      <review_timestamp>2026-03-17T10:25:10+02:00</review_timestamp>
+      <content>Відмінний товар</content>
+      <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
+      <ratings><overall min="1" max="5">5</overall></ratings>
+      <products><product><product_ids>
+            <mpns><mpn>1525181429</mpn></mpns>
+            <brands><brand>Синтез</brand></brands>
+      </product_ids>
+      <product_name>Медицинский силиконовый пластырь от шрамов и рубцов 32х4см (1мм) - Стоп Рубец (Clever Girl)</product_name>
+      <product_url>https://medhome.in.ua/p1525181429-meditsinskij-silikonovyj-plastyr.html?source=merchant_center</product_url>
+      </product></products>
+    </review>
+    <review>
+      <review_id>1cecee0f6d50</review_id>
+      <reviewer><n>Тетяна Г.</n></reviewer>
+      <review_timestamp>2026-03-16T16:23:35+02:00</review_timestamp>
+      <content>Я замовила випадково 2 одиниці одного товару і тому прийшлось скасувати один товар Дякую за розуміння.</content>
+      <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
+      <ratings><overall min="1" max="5">5</overall></ratings>
+      <products><product><product_ids>
+            <mpns><mpn>2668247392</mpn></mpns>
+            <brands><brand>Medhome</brand></brands>
+      </product_ids>
+      <product_name>Сенсор непрерывного мониторинга глюкозы CGM Sinocare Heaco iCan</product_name>
+      <product_url>https://medhome.in.ua/p2668247392-sensor-nepreryvnogo-monitoringa.html?source=merchant_center</product_url>
+      </product></products>
+    </review>
+    <review>
+      <review_id>c0b387ffc49a</review_id>
+      <reviewer><n>Іванна Д.</n></reviewer>
+      <review_timestamp>2026-03-13T21:18:32+02:00</review_timestamp>
+      <content>Задоволена обслуговуванням , швидко вислали і приїхало також швидко .</content>
+      <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
+      <ratings><overall min="1" max="5">4</overall></ratings>
+      <products><product><product_ids>
+            <mpns><mpn>2104719830</mpn></mpns>
+            <brands><brand>Симург</brand></brands>
+      </product_ids>
+      <product_name>Пессарий силиконовый разгружающий Юнона тип 1, 2, 3</product_name>
+      <product_url>https://medhome.in.ua/p2104719830-pessarij-silikonovyj-razgruzhayuschij.html?source=merchant_center</product_url>
+      </product></products>
+    </review>
+    <review>
+      <review_id>3f31a12f03eb</review_id>
+      <reviewer><n>Наталія К.</n></reviewer>
+      <review_timestamp>2026-03-13T14:41:31+02:00</review_timestamp>
+      <content>Добрий день. Я замовляла милиці. Переглядала різні сайти, але врешті-решт зупинилася на цьому. І не шкодую. Товар відповідає опису. Чудове пакування. Приємна ціна. Швидке та професійне обслуговування. Дякую!. Гарне обслуговування. Актуальний опис. Швидко відправили. Ввічливий продавець. Актуальна ціна. Товар був у наявності</content>
+      <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
+      <ratings><overall min="1" max="5">5</overall></ratings>
+      <products><product><product_ids>
+            <mpns><mpn>1520575367</mpn></mpns>
+            <brands><brand>Doctor Life</brand></brands>
+      </product_ids>
+      <product_name>Костыли подмышечные алюминиевые, пара (высота 114-134см) - Doctor Life 10022</product_name>
+      <product_url>https://medhome.in.ua/p1520575367-kostyli-podmyshechnye-alyuminievye.html?source=merchant_center</product_url>
+      </product></products>
+    </review>
+    <review>
+      <review_id>7789c3ce571c</review_id>
+      <reviewer><n>Сергій П.</n></reviewer>
+      <review_timestamp>2026-03-11T23:04:19+02:00</review_timestamp>
+      <content>Все підійшло,користуюсь. Гарне обслуговування. Актуальний опис. Швидко відправили. Ввічливий продавець. Актуальна ціна. Товар був у наявності</content>
+      <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
+      <ratings><overall min="1" max="5">5</overall></ratings>
+      <products><product><product_ids>
+            <mpns><mpn>1521571827</mpn></mpns>
+            <brands><brand>Orliman</brand></brands>
+      </product_ids>
+      <product_name>Бандаж запястный эластичный OS6260 Orliman Sport</product_name>
+      <product_url>https://medhome.in.ua/p1521571827-bandazh-zapyastnyj-elastichnyj.html?source=merchant_center</product_url>
+      </product></products>
+    </review>
+    <review>
+      <review_id>cd0b0dcafbee</review_id>
+      <reviewer><n>Наталія П.</n></reviewer>
+      <review_timestamp>2026-03-10T02:30:47+02:00</review_timestamp>
+      <content>Відмінний товар. Гарне обслуговування</content>
+      <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
+      <ratings><overall min="1" max="5">5</overall></ratings>
+      <products><product><product_ids>
+            <mpns><mpn>2694950074</mpn></mpns>
+            <brands><brand>Welle</brand></brands>
+      </product_ids>
+      <product_name>Ортез жесткий на голеностопный сустав - Wellcare 62033 NEW</product_name>
+      <product_url>https://medhome.in.ua/p2694950074-ortez-zhestkij-golenostopnyj.html?source=merchant_center</product_url>
+      </product></products>
+    </review>
+    <review>
+      <review_id>cb697f8df9ef</review_id>
+      <reviewer><n>Денис К.</n></reviewer>
+      <review_timestamp>2026-03-09T19:45:50+02:00</review_timestamp>
+      <content>Відмінний товар</content>
+      <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
+      <ratings><overall min="1" max="5">5</overall></ratings>
+      <products><product><product_ids>
+            <mpns><mpn>1511567350</mpn></mpns>
+            <brands><brand>KAPS</brand></brands>
+      </product_ids>
+      <product_name>Формодержатели деревянные с отверстиями Kaps 40/41</product_name>
+      <product_url>https://medhome.in.ua/p1511567350-formoderzhateli-derevyannye-otverstiyami.html?source=merchant_center</product_url>
+      </product></products>
+    </review>
+    <review>
+      <review_id>ce7ab6bb9119</review_id>
+      <reviewer><n>Степан Д.</n></reviewer>
+      <review_timestamp>2026-03-09T11:46:46+02:00</review_timestamp>
+      <content>Відмінний товар. Гарне обслуговування. Актуальний опис. Швидко відправили. Ввічливий продавець. Актуальна ціна. Товар був у наявності</content>
+      <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
+      <ratings><overall min="1" max="5">5</overall></ratings>
+      <products><product><product_ids>
+            <mpns><mpn>2858257238</mpn></mpns>
+            <brands><brand>Donjoy</brand></brands>
+      </product_ids>
+      <product_name>Полужесткий пояснично-крестцовый корсет DonJoy Immostrap 2.0 (США) 82-0075</product_name>
+      <product_url>https://medhome.in.ua/p2858257238-poluzhestkij-poyasnichno-kresttsovyj.html?source=merchant_center</product_url>
+      </product></products>
+    </review>
+    <review>
+      <review_id>57dc16bae74c</review_id>
+      <reviewer><n>ОЛЕСЯ Л.</n></reviewer>
+      <review_timestamp>2026-03-07T14:55:23+02:00</review_timestamp>
+      <content>Дякую. Все оперативно відправлено. Можу рекомендувати звертатися.. Швидко відправили. Ввічливий продавець. Товар був у наявності</content>
+      <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
+      <ratings><overall min="1" max="5">5</overall></ratings>
+      <products><product><product_ids>
+            <mpns><mpn>1871788386</mpn></mpns>
+            <brands><brand>ESTEM</brand></brands>
+      </product_ids>
+      <product_name>Сухой душ ESTEM Extreme - комплект с водой</product_name>
+      <product_url>https://medhome.in.ua/p1871788386-suhoj-dush-estem.html?source=merchant_center</product_url>
+      </product></products>
+    </review>
+    <review>
+      <review_id>3ef420a89923</review_id>
+      <reviewer><n>Светлана М.</n></reviewer>
+      <review_timestamp>2026-03-06T15:37:08+02:00</review_timestamp>
+      <content>Відмінний товар. Гарне обслуговування. Актуальний опис. Швидко відправили. Ввічливий продавець. Актуальна ціна. Товар був у наявності</content>
+      <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
+      <ratings><overall min="1" max="5">5</overall></ratings>
+      <products><product><product_ids>
+            <mpns><mpn>1529948866</mpn></mpns>
+            <brands><brand>NOVA</brand></brands>
+      </product_ids>
+      <product_name>Трость с ремешком, регулируемая, из алюминиевого сплава - Nova B2012-A</product_name>
+      <product_url>https://medhome.in.ua/p1529948866-trost-remeshkom-reguliruemaya.html?source=merchant_center</product_url>
+      </product></products>
+    </review>
+    <review>
+      <review_id>849e21591c66</review_id>
+      <reviewer><n>Евгений В.</n></reviewer>
+      <review_timestamp>2026-03-06T15:27:37+02:00</review_timestamp>
+      <content>Відмінний товар. Гарне обслуговування. Актуальний опис. Швидко відправили. Ввічливий продавець. Актуальна ціна. Товар був у наявності</content>
+      <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
+      <ratings><overall min="1" max="5">5</overall></ratings>
+      <products><product><product_ids>
+            <mpns><mpn>2694950074</mpn></mpns>
+            <brands><brand>Welle</brand></brands>
+      </product_ids>
+      <product_name>Ортез жесткий на голеностопный сустав - Wellcare 62033 NEW</product_name>
+      <product_url>https://medhome.in.ua/p2694950074-ortez-zhestkij-golenostopnyj.html?source=merchant_center</product_url>
+      </product></products>
+    </review>
+    <review>
+      <review_id>c6d2ab9ecaa4</review_id>
+      <reviewer><n>Свитак Н.</n></reviewer>
+      <review_timestamp>2026-03-06T12:57:06+02:00</review_timestamp>
+      <content>Відмінний товар. Гарне обслуговування. Швидко відправили. Актуальна ціна. Товар був у наявності</content>
+      <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
+      <ratings><overall min="1" max="5">5</overall></ratings>
+      <products><product><product_ids>
+            <mpns><mpn>1969943875</mpn></mpns>
+            <brands><brand>KaWe</brand></brands>
+      </product_ids>
+      <product_name>Отоскоп KaWe PICCOLIGHT C, синий (01.13100.232)</product_name>
+      <product_url>https://medhome.in.ua/p1969943875-otoskop-kawe-piccolight.html?source=merchant_center</product_url>
+      </product></products>
+    </review>
+    <review>
+      <review_id>409ace05faa0</review_id>
+      <reviewer><n>Олена З.</n></reviewer>
+      <review_timestamp>2026-03-05T14:11:16+02:00</review_timestamp>
+      <content>Заказ був прийнят швидко, зразу відправлений. Продавця рекомендую. На жаль не підійшов розмір.</content>
+      <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
+      <ratings><overall min="1" max="5">5</overall></ratings>
+      <products><product><product_ids>
+            <mpns><mpn>1814070369</mpn></mpns>
+            <brands><brand>Aurafix</brand></brands>
+      </product_ids>
+      <product_name>Компрессионное боди после липосакции Aurafix LC-1540 бежевый</product_name>
+      <product_url>https://medhome.in.ua/p1814070369-kompressionnoe-bodi-posle.html?source=merchant_center</product_url>
+      </product></products>
+    </review>
+    <review>
+      <review_id>ad1f4f33e0a0</review_id>
+      <reviewer><n>Олена З.</n></reviewer>
+      <review_timestamp>2026-03-05T14:08:35+02:00</review_timestamp>
+      <content>Персонал ввічливий, вислали дуже швидко, якість чудова. Не підійшов розмір( надто велике)</content>
+      <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
+      <ratings><overall min="1" max="5">5</overall></ratings>
+      <products><product><product_ids>
+            <mpns><mpn>1814070369</mpn></mpns>
+            <brands><brand>Aurafix</brand></brands>
+      </product_ids>
+      <product_name>Компрессионное боди после липосакции Aurafix LC-1540 бежевый</product_name>
+      <product_url>https://medhome.in.ua/p1814070369-kompressionnoe-bodi-posle.html?source=merchant_center</product_url>
+      </product></products>
+    </review>
+    <review>
+      <review_id>937626933c42</review_id>
+      <reviewer><n>Павел С.</n></reviewer>
+      <review_timestamp>2026-03-04T15:02:00+02:00</review_timestamp>
+      <content>Рекомендую</content>
+      <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
+      <ratings><overall min="1" max="5">5</overall></ratings>
+      <products><product><product_ids>
+            <mpns><mpn>1516649973</mpn></mpns>
+            <brands><brand>Алком</brand></brands>
+      </product_ids>
+      <product_name>Бандаж противогрыжевой паховый - Алком 2034</product_name>
+      <product_url>https://medhome.in.ua/p1516649973-bandazh-protivogryzhevoj-pahovyj.html?source=merchant_center</product_url>
+      </product></products>
+    </review>
+    <review>
+      <review_id>b7eb2575d6d5</review_id>
+      <reviewer><n>Галина Х.</n></reviewer>
+      <review_timestamp>2026-03-02T22:10:14+02:00</review_timestamp>
+      <content>Відмінний товар. Гарне обслуговування. Ввічливий продавець. Актуальна ціна</content>
+      <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
+      <ratings><overall min="1" max="5">5</overall></ratings>
+      <products><product><product_ids>
+            <mpns><mpn>1932947802</mpn></mpns>
+            <brands><brand>Paul Hartmann</brand></brands>
+      </product_ids>
+      <product_name>Прокладки урологические для мужчин V-образной формы MoliCare® Premium MEN PAD 5 капель 14шт/уп</product_name>
+      <product_url>https://medhome.in.ua/p1932947802-prokladki-urologicheskie-dlya.html?source=merchant_center</product_url>
+      </product></products>
+    </review>
+    <review>
+      <review_id>f34059310d74</review_id>
+      <reviewer><n>Владислава Г.</n></reviewer>
+      <review_timestamp>2026-03-01T09:55:48+02:00</review_timestamp>
+      <content>Відмінний товар. Гарне обслуговування. Актуальний опис. Ввічливий продавець. Товар був у наявності</content>
+      <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
+      <ratings><overall min="1" max="5">5</overall></ratings>
+      <products><product><product_ids>
+            <mpns><mpn>1516650055</mpn></mpns>
+            <brands><brand>Алком</brand></brands>
+      </product_ids>
+      <product_name>Бандаж (повязка) фиксирующий Дезо детский - Алком 3011K</product_name>
+      <product_url>https://medhome.in.ua/p1516650055-bandazh-povyazka-fiksiruyuschij.html?source=merchant_center</product_url>
+      </product></products>
+    </review>
+    <review>
+      <review_id>16d33b81bb26</review_id>
+      <reviewer><n>Юрий К.</n></reviewer>
+      <review_timestamp>2026-03-01T00:24:25+02:00</review_timestamp>
+      <content>Відмінний товар. Гарне обслуговування. Актуальний опис. Швидко відправили. Ввічливий продавець. Актуальна ціна. Товар був у наявності</content>
+      <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
+      <ratings><overall min="1" max="5">5</overall></ratings>
+      <products><product><product_ids>
+            <mpns><mpn>1520575358</mpn></mpns>
+            <brands><brand>Doctor Life</brand></brands>
+      </product_ids>
+      <product_name>Стул туалетный со спинкой, регулирующий по высоте - Doctor Life 10595</product_name>
+      <product_url>https://medhome.in.ua/p1520575358-stul-tualetnyj-spinkoj.html?source=merchant_center</product_url>
+      </product></products>
+    </review>
+    <review>
+      <review_id>904b360317f0</review_id>
+      <reviewer><n>Костянтин П.</n></reviewer>
+      <review_timestamp>2026-02-28T17:09:03+02:00</review_timestamp>
+      <content>Відмінний товар</content>
+      <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
+      <ratings><overall min="1" max="5">5</overall></ratings>
+      <products><product><product_ids>
+            <mpns><mpn>2236295513</mpn></mpns>
+            <brands><brand>Oxy Health</brand></brands>
+      </product_ids>
+      <product_name>Кислородный балон 16 л с маской</product_name>
+      <product_url>https://medhome.in.ua/p2236295513-kislorodnyj-balon-maskoj.html?source=merchant_center</product_url>
+      </product></products>
+    </review>
+    <review>
+      <review_id>d930d37b5fa9</review_id>
+      <reviewer><n>Татьяна Л.</n></reviewer>
+      <review_timestamp>2026-02-28T16:40:41+02:00</review_timestamp>
+      <content>Продавець чудовий, швидко все відправив. Але колготки мені не сподобалист. Замовила розмір 4 на мої мірки. Колготки виявились короткий, як на мій зріст. Мій зріст 172. І дуже пережимають в гомілці.</content>
+      <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
+      <ratings><overall min="1" max="5">5</overall></ratings>
+      <products><product><product_ids>
+            <mpns><mpn>1528565868</mpn></mpns>
+            <brands><brand>Tiana</brand></brands>
+      </product_ids>
+      <product_name>Компрессионные колготки медицинские лечебные 2 класс - Tiana Тип 890 (черные), 895 (беж)</product_name>
+      <product_url>https://medhome.in.ua/p1528565868-kompressionnye-kolgotki-meditsinskie.html?source=merchant_center</product_url>
+      </product></products>
+    </review>
+    <review>
+      <review_id>b49b6e598a44</review_id>
+      <reviewer><n>Ольга Т.</n></reviewer>
+      <review_timestamp>2026-02-25T17:31:52+02:00</review_timestamp>
+      <content>Відмінний товар. Гарне обслуговування. Актуальний опис. Швидко відправили. Товар був у наявності</content>
+      <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
+      <ratings><overall min="1" max="5">5</overall></ratings>
+      <products><product><product_ids>
+            <mpns><mpn>1520575304</mpn></mpns>
+            <brands><brand>Ossenberg</brand></brands>
+      </product_ids>
+      <product_name>Подлокотный костыль Klassiker, фиолетовый</product_name>
+      <product_url>https://medhome.in.ua/p1520575304-podlokotnyj-kostyl-klassiker.html?source=merchant_center</product_url>
+      </product></products>
+    </review>
+    <review>
+      <review_id>188ab2e074dd</review_id>
+      <reviewer><n>Світлана Б.</n></reviewer>
+      <review_timestamp>2026-02-24T12:49:41+02:00</review_timestamp>
+      <content>Відмінний товар</content>
+      <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
+      <ratings><overall min="1" max="5">5</overall></ratings>
+      <products><product><product_ids>
+            <mpns><mpn>1529948888</mpn></mpns>
+            <brands><brand>NOVA</brand></brands>
+      </product_ids>
+      <product_name>Трость четырёхопорная, алюминиевая, регулируемая по высоте - Nova B5610</product_name>
+      <product_url>https://medhome.in.ua/p1529948888-trost-chetyryohopornaya-alyuminievaya.html?source=merchant_center</product_url>
+      </product></products>
+    </review>
+    <review>
+      <review_id>87c9b172906a</review_id>
+      <reviewer><n>Юлия Л.</n></reviewer>
+      <review_timestamp>2026-02-24T08:43:12+02:00</review_timestamp>
+      <content>Відмінний товар. Гарне обслуговування. Актуальний опис. Швидко відправили. Ввічливий продавець. Актуальна ціна. Товар був у наявності</content>
+      <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
+      <ratings><overall min="1" max="5">5</overall></ratings>
+      <products><product><product_ids>
+            <mpns><mpn>1943471510</mpn></mpns>
+            <brands><brand>Симург</brand></brands>
+      </product_ids>
+      <product_name>Пессарий маточный Юнона (при опущении, выпадении) тип 2</product_name>
+      <product_url>https://medhome.in.ua/p1943471510-pessarij-matochnyj-yunona.html?source=merchant_center</product_url>
+      </product></products>
+    </review>
+    <review>
+      <review_id>a26c45f571bd</review_id>
+      <reviewer><n>Андрій Т.</n></reviewer>
+      <review_timestamp>2026-02-23T20:38:46+02:00</review_timestamp>
+      <content>Відмінний товар. Актуальний опис. Ввічливий продавець. Актуальна ціна</content>
+      <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
+      <ratings><overall min="1" max="5">5</overall></ratings>
+      <products><product><product_ids>
+            <mpns><mpn>2694950074</mpn></mpns>
+            <brands><brand>Welle</brand></brands>
+      </product_ids>
+      <product_name>Ортез жесткий на голеностопный сустав - Wellcare 62033 NEW</product_name>
+      <product_url>https://medhome.in.ua/p2694950074-ortez-zhestkij-golenostopnyj.html?source=merchant_center</product_url>
+      </product></products>
+    </review>
+    <review>
+      <review_id>0067141fdc3d</review_id>
+      <reviewer><n>Юлия О.</n></reviewer>
+      <review_timestamp>2026-02-21T15:42:52+02:00</review_timestamp>
+      <content>Відмінний товар</content>
+      <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
+      <ratings><overall min="1" max="5">5</overall></ratings>
+      <products><product><product_ids>
+            <mpns><mpn>2487165523</mpn></mpns>
+            <brands><brand>Doctor 101</brand></brands>
+      </product_ids>
+      <product_name>Мощный воздухоочиститель 4-в-1 Doctor-101 Aello с увлажнителем воздуха, УФ-лампой и ионизатором А12</product_name>
+      <product_url>https://medhome.in.ua/p2487165523-moschnyj-vozduhoochistitel-doctor.html?source=merchant_center</product_url>
+      </product></products>
+    </review>
+    <review>
+      <review_id>01d0dc764568</review_id>
+      <reviewer><n>Оксана Л.</n></reviewer>
+      <review_timestamp>2026-02-21T00:27:09+02:00</review_timestamp>
+      <content>Відмінний товар</content>
+      <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
+      <ratings><overall min="1" max="5">5</overall></ratings>
+      <products><product><product_ids>
+            <mpns><mpn>2450045172</mpn></mpns>
+            <brands><brand>Medhome</brand></brands>
+      </product_ids>
+      <product_name>Вальгусная шина регулируемая Бандаж при Халюс вальгус Ortek 10540</product_name>
+      <product_url>https://medhome.in.ua/p2450045172-valgusnaya-shina-reguliruemaya.html?source=merchant_center</product_url>
+      </product></products>
+    </review>
+    <review>
+      <review_id>938189d59276</review_id>
+      <reviewer><n>Надія К.</n></reviewer>
+      <review_timestamp>2026-02-20T23:03:21+02:00</review_timestamp>
+      <content>Відмінний товар. Гарне обслуговування. Ввічливий продавець. Товар був у наявності</content>
+      <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
+      <ratings><overall min="1" max="5">5</overall></ratings>
+      <products><product><product_ids>
+            <mpns><mpn>2661107944</mpn></mpns>
+            <brands><brand>Nature's Sunshine Products</brand></brands>
+      </product_ids>
+      <product_name>Wild Yam NSP, Дикий Ямс НСП, 100 капсул, США</product_name>
+      <product_url>https://medhome.in.ua/p2661107944-wild-yam-nsp.html?source=merchant_center</product_url>
+      </product></products>
+    </review>
+    <review>
+      <review_id>eebb5925c7dd</review_id>
+      <reviewer><n>Наталія М.</n></reviewer>
+      <review_timestamp>2026-02-20T18:47:39+02:00</review_timestamp>
+      <content>Все чудово, просто не підійшов розмір! Купляли раніше тут 2!. Ввічливий продавець</content>
+      <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
+      <ratings><overall min="1" max="5">5</overall></ratings>
+      <products><product><product_ids>
+            <mpns><mpn>1528565845</mpn></mpns>
+            <brands><brand>Торос-Груп</brand></brands>
+      </product_ids>
+      <product_name>Стремена Павлика - Торос Тип 450</product_name>
+      <product_url>https://medhome.in.ua/p1528565845-stremena-pavlika-toros.html?source=merchant_center</product_url>
+      </product></products>
+    </review>
+    <review>
+      <review_id>3330f3951adb</review_id>
+      <reviewer><n>Ірена М.</n></reviewer>
+      <review_timestamp>2026-02-20T13:38:15+02:00</review_timestamp>
+      <content>Дуже швидко зв'язались зі мною та відправили.З Дніпра до Львова приїхпло швидше ніж замовляла б в місцевих аптеках.Одним словом - круті!. Гарне обслуговування. Актуальний опис. Швидко відправили. Ввічливий продавець. Актуальна ціна. Товар був у наявності</content>
+      <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
+      <ratings><overall min="1" max="5">5</overall></ratings>
+      <products><product><product_ids>
+            <mpns><mpn>1525181427</mpn></mpns>
+            <brands><brand>Синтез</brand></brands>
+      </product_ids>
+      <product_name>Медицинский силиконовый пластырь от шрамов и рубцов 9х12 см (1мм) - Стоп Рубец (Clever Girl)</product_name>
+      <product_url>https://medhome.in.ua/p1525181427-meditsinskij-silikonovyj-plastyr.html?source=merchant_center</product_url>
+      </product></products>
+    </review>
+    <review>
+      <review_id>33b9ba3a2d8b</review_id>
+      <reviewer><n>Вікторія</n></reviewer>
+      <review_timestamp>2026-02-20T13:14:44+02:00</review_timestamp>
+      <content>Сервісом задоволена. Швидко опрацювали замовлення і швидко відправили. Засмутило те, що на упаковці вказано виробник - Білорусь!. Актуальний опис. Швидко відправили. Актуальна ціна. Товар був у наявності</content>
+      <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
+      <ratings><overall min="1" max="5">5</overall></ratings>
+      <products><product><product_ids>
+            <mpns><mpn>1757071903</mpn></mpns>
+            <brands><brand>M.M.</brand></brands>
+      </product_ids>
+      <product_name>Пессарий акушерский разгружающий силиконовый тип 1, 2, 3 Medising</product_name>
+      <product_url>https://medhome.in.ua/p1757071903-pessarij-akusherskij-razgruzhayuschij.html?source=merchant_center</product_url>
+      </product></products>
+    </review>
+    <review>
+      <review_id>6149a3dc57f3</review_id>
+      <reviewer><n>Сара Ц.</n></reviewer>
+      <review_timestamp>2026-02-20T12:14:03+02:00</review_timestamp>
+      <content>Відмінний товар. Гарне обслуговування. Актуальний опис. Швидко відправили. Ввічливий продавець. Актуальна ціна. Товар був у наявності</content>
+      <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
+      <ratings><overall min="1" max="5">5</overall></ratings>
+      <products><product><product_ids>
+            <mpns><mpn>1934320304</mpn></mpns>
+            <brands><brand>Vibram</brand></brands>
+      </product_ids>
+      <product_name>Костыль iWALK3.0 Hands Free</product_name>
+      <product_url>https://medhome.in.ua/p1934320304-kostyl-iwalk30-hands.html?source=merchant_center</product_url>
+      </product></products>
+    </review>
+    <review>
+      <review_id>68bb15bdaa70</review_id>
+      <reviewer><n>светлана с.</n></reviewer>
+      <review_timestamp>2026-02-20T00:51:32+02:00</review_timestamp>
+      <content>Відмінний товар. Гарне обслуговування. Швидко відправили. Товар був у наявності</content>
+      <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
+      <ratings><overall min="1" max="5">5</overall></ratings>
+      <products><product><product_ids>
+            <mpns><mpn>1800351633</mpn></mpns>
+            <brands><brand>ОSD</brand></brands>
+      </product_ids>
+      <product_name>Алюминиевый стул-туалет 3 в 1 OSD-BL730200</product_name>
+      <product_url>https://medhome.in.ua/p1800351633-alyuminievyj-stul-tualet.html?source=merchant_center</product_url>
+      </product></products>
+    </review>
+    <review>
+      <review_id>a6f0321c2509</review_id>
+      <reviewer><n>Елена К.</n></reviewer>
+      <review_timestamp>2026-02-19T15:58:14+02:00</review_timestamp>
+      <content>Відмінний товар</content>
+      <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
+      <ratings><overall min="1" max="5">5</overall></ratings>
+      <products><product><product_ids>
+            <mpns><mpn>1520575360</mpn></mpns>
+            <brands><brand>Doctor Life</brand></brands>
+      </product_ids>
+      <product_name>Ходунки складные алюминиевые - Doctor Life 12850</product_name>
+      <product_url>https://medhome.in.ua/p1520575360-hodunki-skladnye-alyuminievye.html?source=merchant_center</product_url>
+      </product></products>
+    </review>
+    <review>
+      <review_id>b103d1328ea6</review_id>
+      <reviewer><n>Генна Д.</n></reviewer>
+      <review_timestamp>2026-02-19T14:40:21+02:00</review_timestamp>
+      <content>Відмінний товар. Гарне обслуговування. Актуальний опис. Швидко відправили. Ввічливий продавець. Актуальна ціна. Товар був у наявності</content>
+      <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
+      <ratings><overall min="1" max="5">5</overall></ratings>
+      <products><product><product_ids>
+            <mpns><mpn>2790847587</mpn></mpns>
+            <brands><brand>CGM</brand></brands>
+      </product_ids>
+      <product_name>Сенсор Linx система мониторинга глюкозы Линкс</product_name>
+      <product_url>https://medhome.in.ua/p2790847587-sensor-linx-sistema.html?source=merchant_center</product_url>
+      </product></products>
+    </review>
+    <review>
+      <review_id>81f911bb0e4b</review_id>
+      <reviewer><n>Владимир Л.</n></reviewer>
+      <review_timestamp>2026-02-18T14:42:56+02:00</review_timestamp>
+      <content>Спасибо</content>
+      <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
+      <ratings><overall min="1" max="5">5</overall></ratings>
+      <products><product><product_ids>
+            <mpns><mpn>1529948845</mpn></mpns>
+            <brands><brand>Hema</brand></brands>
+      </product_ids>
+      <product_name>Cтельки ортопедические каркасные с пяточным амортизатором - OrtoMed OMS-102</product_name>
+      <product_url>https://medhome.in.ua/p1529948845-ctelki-ortopedicheskie-karkasnye.html?source=merchant_center</product_url>
+      </product></products>
+    </review>
+    <review>
+      <review_id>b67a47f5ece8</review_id>
+      <reviewer><n>Наталя Г.</n></reviewer>
+      <review_timestamp>2026-02-18T14:29:52+02:00</review_timestamp>
+      <content>Відмінний товар. Гарне обслуговування. Актуальний опис. Швидко відправили. Актуальна ціна. Товар був у наявності</content>
+      <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
+      <ratings><overall min="1" max="5">5</overall></ratings>
+      <products><product><product_ids>
+            <mpns><mpn>1763462515</mpn></mpns>
+            <brands><brand>Qmed</brand></brands>
+      </product_ids>
+      <product_name>Фитбол - Qmed ABS Gym Ball 85 см. Гимнастический мяч для фитнеса. Серый</product_name>
+      <product_url>https://medhome.in.ua/p1763462515-fitbol-qmed-abs.html?source=merchant_center</product_url>
+      </product></products>
+    </review>
+    <review>
+      <review_id>e09ffe466d9d</review_id>
+      <reviewer><n>Сергій М.</n></reviewer>
+      <review_timestamp>2026-02-18T12:52:34+02:00</review_timestamp>
+      <content>Відмінний товар</content>
+      <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
+      <ratings><overall min="1" max="5">5</overall></ratings>
+      <products><product><product_ids>
+            <mpns><mpn>1993645320</mpn></mpns>
+            <brands><brand>Биомед</brand></brands>
+      </product_ids>
+      <product_name>Скидка + Кровать больничная "БИОМЕД" FB-H5 (механическая, многофункциональная)</product_name>
+      <product_url>https://medhome.in.ua/p1993645320-skidka-krovat-bolnichnaya.html?source=merchant_center</product_url>
+      </product></products>
+    </review>
+    <review>
+      <review_id>7cfefe578fa7</review_id>
+      <reviewer><n>Оксана П.</n></reviewer>
+      <review_timestamp>2026-02-17T15:22:44+02:00</review_timestamp>
+      <content>Відмінний товар</content>
+      <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
+      <ratings><overall min="1" max="5">5</overall></ratings>
+      <products><product><product_ids>
+            <mpns><mpn>1800297435</mpn></mpns>
+            <brands><brand>ОSD</brand></brands>
+      </product_ids>
+      <product_name>Насадка на унитаз «King» 15 см с крышкой KING-15L-00</product_name>
+      <product_url>https://medhome.in.ua/p1800297435-nasadka-unitaz-king.html?source=merchant_center</product_url>
+      </product></products>
+    </review>
+    <review>
+      <review_id>36e93b7a98c3</review_id>
+      <reviewer><n>Влада Ч.</n></reviewer>
+      <review_timestamp>2026-02-16T21:11:10+02:00</review_timestamp>
+      <content>Відмінний товар. Гарне обслуговування. Швидко відправили. Ввічливий продавець. Актуальна ціна. Товар був у наявності</content>
+      <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
+      <ratings><overall min="1" max="5">5</overall></ratings>
+      <products><product><product_ids>
+            <mpns><mpn>1520575199</mpn></mpns>
+            <brands><brand>Orliman</brand></brands>
+      </product_ids>
+      <product_name>Бандаж для голеностопного сустава Sport OS 6240</product_name>
+      <product_url>https://medhome.in.ua/p1520575199-bandazh-dlya-golenostopnogo.html?source=merchant_center</product_url>
+      </product></products>
+    </review>
+    <review>
+      <review_id>9b741a3ac147</review_id>
+      <reviewer><n>Юлія С.</n></reviewer>
+      <review_timestamp>2026-02-16T20:25:45+02:00</review_timestamp>
+      <content>Все сподобалось) дякую</content>
+      <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
+      <ratings><overall min="1" max="5">5</overall></ratings>
+      <products><product><product_ids>
+            <mpns><mpn>2236295513</mpn></mpns>
+            <brands><brand>Oxy Health</brand></brands>
+      </product_ids>
+      <product_name>Кислородный балон 16 л с маской</product_name>
+      <product_url>https://medhome.in.ua/p2236295513-kislorodnyj-balon-maskoj.html?source=merchant_center</product_url>
+      </product></products>
+    </review>
+    <review>
+      <review_id>d5842a47009d</review_id>
+      <reviewer><n>Тетяна Г.</n></reviewer>
+      <review_timestamp>2026-02-15T14:36:12+02:00</review_timestamp>
+      <content>Відмінний товар. Актуальний опис. Товар був у наявності</content>
+      <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
+      <ratings><overall min="1" max="5">5</overall></ratings>
+      <products><product><product_ids>
+            <mpns><mpn>1943471510</mpn></mpns>
+            <brands><brand>Симург</brand></brands>
+      </product_ids>
+      <product_name>Пессарий маточный Юнона (при опущении, выпадении) тип 2</product_name>
+      <product_url>https://medhome.in.ua/p1943471510-pessarij-matochnyj-yunona.html?source=merchant_center</product_url>
+      </product></products>
+    </review>
+  </reviews>
+</feed>
