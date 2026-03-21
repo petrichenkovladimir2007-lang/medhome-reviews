@@ -27,7 +27,7 @@ CONFIG = {
     "aggregator_name": "prom.ua",
     "output_file": "docs/medhome_reviews_feed.xml",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
-    "max_test_pages": 5  # ЛІМІТ СТОРІНОК ДЛЯ ТЕСТУ (змініть на None для повного парсингу)
+    "max_test_pages": None  # ЛІМІТ СТОРІНОК ДЛЯ ТЕСТУ (змініть на None для повного парсингу)
 }
 
 logging.basicConfig(
