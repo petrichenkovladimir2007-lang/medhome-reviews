@@ -26,7 +26,6 @@ jobs:
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
-          git pull --rebase origin main
           git add docs/medhome_reviews_feed.xml
           git commit -m "Update reviews feed [skip ci]" || exit 0
-          git push
+          git push origin main --force
