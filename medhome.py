@@ -25,7 +25,7 @@ CONFIG = {
     "publisher_name": "medhome.in.ua",
     "favicon_url": "https://medhome.in.ua/favicon.ico",
     "aggregator_name": "prom.ua",
-    "output_file": "public/medhome_reviews_feed.xml",
+    "output_file": "docs/medhome_reviews_feed.xml",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
     "max_test_pages": 5  # ЛІМІТ СТОРІНОК ДЛЯ ТЕСТУ (змініть на None для повного парсингу)
 }
