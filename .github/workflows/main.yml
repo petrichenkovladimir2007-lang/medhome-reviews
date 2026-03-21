@@ -2,7 +2,7 @@ name: Update Reviews Feed
 
 on:
   schedule:
-    - cron: '0 0 * * 1' # Запуск каждую полночь
+    - cron: '0 0 * * 1' # Запуск каждый понедельник
   workflow_dispatch:      # Позволяет запускать кнопкой вручную
 
 jobs:
