@@ -1,9 +1,8 @@
 name: Update Reviews Feed
-
 on:
   schedule:
-    - cron: '0 0 * * 1' # Запуск каждый понедельник
-  workflow_dispatch:      # Позволяет запускать кнопкой вручную
+    - cron: '0 0 * * 1'
+  workflow_dispatch:
 
 jobs:
   build:
@@ -18,8 +17,7 @@ jobs:
           python-version: '3.9'
 
       - name: Install dependencies
-        run: |
-          pip install -r requirements.txt
+        run: pip install -r requirements.txt
 
       - name: Run parser
         run: python medhome.py
@@ -28,6 +26,7 @@ jobs:
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
+          git pull --rebase origin main
           git add docs/medhome_reviews_feed.xml
           git commit -m "Update reviews feed [skip ci]" || exit 0
           git push
