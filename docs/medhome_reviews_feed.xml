@@ -4,6 +4,81 @@
   <publisher><n>medhome.in.ua</n><favicon>https://medhome.in.ua/favicon.ico</favicon></publisher>
   <reviews>
     <review>
+      <review_id>ed1324de946a</review_id>
+      <reviewer><n>Дмитро Б.</n></reviewer>
+      <review_timestamp>2026-07-18T15:39:43+02:00</review_timestamp>
+      <content>Відмінний товар. Гарне обслуговування. Актуальний опис. Ввічливий продавець. Актуальна ціна. Товар був у наявності</content>
+      <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
+      <ratings><overall min="1" max="5">5</overall></ratings>
+      <products><product><product_ids>
+            <mpns><mpn>1702748877</mpn></mpns>
+            <brands><brand>Omron</brand></brands>
+      </product_ids>
+      <product_name>OMRON HN-289 Весы напольные элетронные HN-289-ЕB</product_name>
+      <product_url>https://medhome.in.ua/p1702748877-omron-289-vesy.html?source=merchant_center</product_url>
+      </product></products>
+    </review>
+    <review>
+      <review_id>9f0527aafce7</review_id>
+      <reviewer><n>Олена М.</n></reviewer>
+      <review_timestamp>2026-07-15T22:26:26+02:00</review_timestamp>
+      <content>Дякую за швидке обслуговування</content>
+      <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
+      <ratings><overall min="1" max="5">5</overall></ratings>
+      <products><product><product_ids>
+            <mpns><mpn>3009222919</mpn></mpns>
+            <brands><brand>Nature's Sunshine Products</brand></brands>
+      </product_ids>
+      <product_name>Витамины для пищеварения, Casсara Sagrada, Каскара Саграда, Nature’s Sunshine Products, США, 100 капсул</product_name>
+      <product_url>https://medhome.in.ua/p3009222919-vitaminy-dlya-pischevareniya.html?source=merchant_center</product_url>
+      </product></products>
+    </review>
+    <review>
+      <review_id>72c7da12a421</review_id>
+      <reviewer><n>Олександр П.</n></reviewer>
+      <review_timestamp>2026-07-14T14:07:00+02:00</review_timestamp>
+      <content>Нажаль не підійшло, не достатня фіксація.. Швидко відправили. Ввічливий продавець. Актуальна ціна. Товар був у наявності</content>
+      <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
+      <ratings><overall min="1" max="5">5</overall></ratings>
+      <products><product><product_ids>
+            <mpns><mpn>1832149387</mpn></mpns>
+            <brands><brand>Welle</brand></brands>
+      </product_ids>
+      <product_name>Ортез жесткий на голеностопный сустав - Wellcare 62033</product_name>
+      <product_url>https://medhome.in.ua/p1832149387-ortez-zhestkij-golenostopnyj.html?source=merchant_center</product_url>
+      </product></products>
+    </review>
+    <review>
+      <review_id>5dc60326c52a</review_id>
+      <reviewer><n>Катерина С.</n></reviewer>
+      <review_timestamp>2026-07-14T13:30:11+02:00</review_timestamp>
+      <content>Відмінний товар. Товару не було в наявності</content>
+      <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
+      <ratings><overall min="1" max="5">5</overall></ratings>
+      <products><product><product_ids>
+            <mpns><mpn>2172783691</mpn></mpns>
+            <brands><brand>Insight</brand></brands>
+      </product_ids>
+      <product_name>Шампунь питательный для сухих волос Insight Dry Hair Nourishing Shampoo 400 мл</product_name>
+      <product_url>https://medhome.in.ua/p2172783691-shampun-pitatelnyj-dlya.html?source=merchant_center</product_url>
+      </product></products>
+    </review>
+    <review>
+      <review_id>05c342934830</review_id>
+      <reviewer><n>Катерина С.</n></reviewer>
+      <review_timestamp>2026-07-14T13:30:11+02:00</review_timestamp>
+      <content>Відмінний товар. Товару не було в наявності</content>
+      <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
+      <ratings><overall min="1" max="5">5</overall></ratings>
+      <products><product><product_ids>
+            <mpns><mpn>2172783676</mpn></mpns>
+            <brands><brand>Insight</brand></brands>
+      </product_ids>
+      <product_name>Кондиционер питательный для сухих волос Insight Dry Hair Nourishing Conditioner, 400 мл.</product_name>
+      <product_url>https://medhome.in.ua/p2172783676-konditsioner-pitatelnyj-dlya.html?source=merchant_center</product_url>
+      </product></products>
+    </review>
+    <review>
       <review_id>b322267aa052</review_id>
       <reviewer><n>Андрій Т.</n></reviewer>
       <review_timestamp>2026-07-12T16:11:04+02:00</review_timestamp>
@@ -9079,8 +9154,8 @@
       </product></products>
     </review>
     <review>
-      <review_id>f53175228ae6</review_id>
-      <reviewer><n>Андрій Я.</n></reviewer>
+      <review_id>8af62f1d5cca</review_id>
+      <reviewer><n>Наталья Я.</n></reviewer>
       <review_timestamp>2025-05-14T15:45:30+02:00</review_timestamp>
       <content>Відмінний товар. Гарне обслуговування. Актуальний опис. Швидко зв'язались. Швидко відправили. Ввічливий продавець. Актуальна ціна. Товар був у наявності</content>
       <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
@@ -10624,8 +10699,8 @@
       </product></products>
     </review>
     <review>
-      <review_id>469fc7441748</review_id>
-      <reviewer><n>Юра К.</n></reviewer>
+      <review_id>5d4431a9ef94</review_id>
+      <reviewer><n>ігор к.</n></reviewer>
       <review_timestamp>2025-04-04T11:43:09+02:00</review_timestamp>
       <content>Відмінний товар. Гарне обслуговування</content>
       <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
@@ -13609,8 +13684,8 @@
       </product></products>
     </review>
     <review>
-      <review_id>d7a866f6f96e</review_id>
-      <reviewer><n>Елена Л.</n></reviewer>
+      <review_id>88cff079059d</review_id>
+      <reviewer><n>Олена Л.</n></reviewer>
       <review_timestamp>2025-02-20T19:54:34+02:00</review_timestamp>
       <content>Відмінний товар. Швидко відправили</content>
       <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
@@ -17254,8 +17329,8 @@
       </product></products>
     </review>
     <review>
-      <review_id>3a9768c97057</review_id>
-      <reviewer><n>Анна С.</n></reviewer>
+      <review_id>b7386dc6259a</review_id>
+      <reviewer><n>Ганна С.</n></reviewer>
       <review_timestamp>2025-01-06T22:49:50+02:00</review_timestamp>
       <content>Відмінний товар</content>
       <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
@@ -17269,8 +17344,8 @@
       </product></products>
     </review>
     <review>
-      <review_id>b9f68f0d7e2f</review_id>
-      <reviewer><n>Анна С.</n></reviewer>
+      <review_id>1f790e05388d</review_id>
+      <reviewer><n>Ганна С.</n></reviewer>
       <review_timestamp>2025-01-06T22:49:50+02:00</review_timestamp>
       <content>Відмінний товар</content>
       <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
@@ -17284,8 +17359,8 @@
       </product></products>
     </review>
     <review>
-      <review_id>4da10fc9b1e1</review_id>
-      <reviewer><n>Анна С.</n></reviewer>
+      <review_id>abfcc46593c2</review_id>
+      <reviewer><n>Ганна С.</n></reviewer>
       <review_timestamp>2025-01-06T22:49:50+02:00</review_timestamp>
       <content>Відмінний товар</content>
       <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
@@ -17569,8 +17644,8 @@
       </product></products>
     </review>
     <review>
-      <review_id>6259e94d5475</review_id>
-      <reviewer><n>Інна С.</n></reviewer>
+      <review_id>7f5f4f32609a</review_id>
+      <reviewer><n>Инна С.</n></reviewer>
       <review_timestamp>2025-01-03T17:30:51+02:00</review_timestamp>
       <content>Відмінний товар. Гарне обслуговування. Актуальний опис. Швидко зв'язались. Швидко відправили. Ввічливий продавець. Актуальна ціна. Товар був у наявності</content>
       <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
@@ -22474,8 +22549,8 @@
       </product></products>
     </review>
     <review>
-      <review_id>e2c0c63c998a</review_id>
-      <reviewer><n>Литвиненко К.</n></reviewer>
+      <review_id>e9235019ded4</review_id>
+      <reviewer><n>Костянтин Л.</n></reviewer>
       <review_timestamp>2024-11-06T22:42:27+02:00</review_timestamp>
       <content>Відмінний товар. Гарне обслуговування. Актуальний опис. Швидко зв'язались. Швидко відправили. Ввічливий продавець. Актуальна ціна. Товар був у наявності</content>
       <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
@@ -22489,8 +22564,8 @@
       </product></products>
     </review>
     <review>
-      <review_id>1541285459b4</review_id>
-      <reviewer><n>Литвиненко К.</n></reviewer>
+      <review_id>a1b19b6c3919</review_id>
+      <reviewer><n>Костянтин Л.</n></reviewer>
       <review_timestamp>2024-11-06T22:42:27+02:00</review_timestamp>
       <content>Відмінний товар. Гарне обслуговування. Актуальний опис. Швидко зв'язались. Швидко відправили. Ввічливий продавець. Актуальна ціна. Товар був у наявності</content>
       <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
@@ -23374,8 +23449,8 @@
       </product></products>
     </review>
     <review>
-      <review_id>0337b07742d2</review_id>
-      <reviewer><n>Вікторія К.</n></reviewer>
+      <review_id>f9bfa13dda1c</review_id>
+      <reviewer><n>Кушніренко В.</n></reviewer>
       <review_timestamp>2024-10-29T11:47:57+02:00</review_timestamp>
       <content>Озонатор прийшов без енциклопедії, а я у вас замовила тільки завдяки тому, що в додаток йшла книга.Тепер розумію, що це такий маркетинговий хід. На пошті я просто забула, що в додаток ішла енциклопедія, бо завчасно вирішила, що без неї не забиратиму озонатор і тільки вдома згадала. Так що ті, хто очікує на енциклопедію в подарунок, не ведіться на цю обіцянку. Хай щастить!🍀. Товар не відповідав опису</content>
       <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
@@ -29359,8 +29434,8 @@
       </product></products>
     </review>
     <review>
-      <review_id>92fda1f441fb</review_id>
-      <reviewer><n>Оксана У.</n></reviewer>
+      <review_id>bc9c3794a0a0</review_id>
+      <reviewer><n>оксана у.</n></reviewer>
       <review_timestamp>2024-08-30T15:41:03+02:00</review_timestamp>
       <content>Відмінний товар</content>
       <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
@@ -29374,8 +29449,8 @@
       </product></products>
     </review>
     <review>
-      <review_id>c24e86c173d1</review_id>
-      <reviewer><n>Оксана У.</n></reviewer>
+      <review_id>82bd1bf9e39e</review_id>
+      <reviewer><n>оксана у.</n></reviewer>
       <review_timestamp>2024-08-30T15:41:03+02:00</review_timestamp>
       <content>Відмінний товар</content>
       <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
@@ -29389,8 +29464,8 @@
       </product></products>
     </review>
     <review>
-      <review_id>3d2c519e8f33</review_id>
-      <reviewer><n>Оксана У.</n></reviewer>
+      <review_id>f16ca451b9f3</review_id>
+      <reviewer><n>оксана у.</n></reviewer>
       <review_timestamp>2024-08-30T15:41:03+02:00</review_timestamp>
       <content>Відмінний товар</content>
       <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
@@ -31969,8 +32044,8 @@
       </product></products>
     </review>
     <review>
-      <review_id>906a64ebd691</review_id>
-      <reviewer><n>Валерий М.</n></reviewer>
+      <review_id>37e23a869cb0</review_id>
+      <reviewer><n>валерий м.</n></reviewer>
       <review_timestamp>2024-08-04T19:34:11+02:00</review_timestamp>
       <content>Відмінний товар. Швидко відправили. Актуальна ціна</content>
       <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
@@ -33709,8 +33784,8 @@
       </product></products>
     </review>
     <review>
-      <review_id>29df94865453</review_id>
-      <reviewer><n>Зоя В.</n></reviewer>
+      <review_id>3be09cd948d4</review_id>
+      <reviewer><n>Влодарчик З.</n></reviewer>
       <review_timestamp>2024-07-18T15:00:11+02:00</review_timestamp>
       <content>Відмінний товар. Гарне обслуговування. Актуальний опис. Швидко зв'язались. Швидко відправили. Ввічливий продавець. Актуальна ціна. Товар був у наявності</content>
       <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
@@ -35884,8 +35959,8 @@
       </product></products>
     </review>
     <review>
-      <review_id>e415de5ca68a</review_id>
-      <reviewer><n>Ірина І.</n></reviewer>
+      <review_id>36e65b85e5c3</review_id>
+      <reviewer><n>Івахненко І.</n></reviewer>
       <review_timestamp>2024-06-23T20:43:39+02:00</review_timestamp>
       <content>Відмінний товар. Гарне обслуговування. Швидко зв'язались. Ввічливий продавець. Актуальна ціна</content>
       <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
@@ -67339,8 +67414,8 @@
       </product></products>
     </review>
     <review>
-      <review_id>93d358e544c7</review_id>
-      <reviewer><n>Іван К.</n></reviewer>
+      <review_id>50aa63333088</review_id>
+      <reviewer><n>Иван К.</n></reviewer>
       <review_timestamp>2023-07-11T21:35:38+02:00</review_timestamp>
       <content>Відмінний товар. Гарне обслуговування. Актуальний опис. Швидко зв'язались. Швидко відправили. Ввічливий продавець. Актуальна ціна. Товар був у наявності</content>
       <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
@@ -74524,8 +74599,8 @@
       </product></products>
     </review>
     <review>
-      <review_id>cc50ee6c643b</review_id>
-      <reviewer><n>Снежана К.</n></reviewer>
+      <review_id>39dc503f61f4</review_id>
+      <reviewer><n>Сніжана К.</n></reviewer>
       <review_timestamp>2023-03-22T15:52:44+02:00</review_timestamp>
       <content>як завжди супер.. Гарне обслуговування. Актуальний опис. Швидко зв'язались. Швидко відправили. Ввічливий продавець. Актуальна ціна. Товар був у наявності</content>
       <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
@@ -76099,8 +76174,8 @@
       </product></products>
     </review>
     <review>
-      <review_id>03d995153e18</review_id>
-      <reviewer><n>Снежана К.</n></reviewer>
+      <review_id>b7194b88be25</review_id>
+      <reviewer><n>Сніжана К.</n></reviewer>
       <review_timestamp>2023-02-14T13:03:52+02:00</review_timestamp>
       <content>не перший і не останній раз замовляю,крута команда.Дякую.. Гарне обслуговування. Актуальний опис. Швидко зв'язались. Швидко відправили. Ввічливий продавець. Актуальна ціна. Товар був у наявності</content>
       <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
