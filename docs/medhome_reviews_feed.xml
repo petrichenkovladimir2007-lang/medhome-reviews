@@ -4,6 +4,81 @@
   <publisher><n>medhome.in.ua</n><favicon>https://medhome.in.ua/favicon.ico</favicon></publisher>
   <reviews>
     <review>
+      <review_id>a817b215782e</review_id>
+      <reviewer><n>Юлія Л.</n></reviewer>
+      <review_timestamp>2026-08-22T20:38:15+02:00</review_timestamp>
+      <content>Відмінний товар. Гарне обслуговування. Актуальний опис. Швидко відправили. Ввічливий продавець. Актуальна ціна. Товар був у наявності</content>
+      <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
+      <ratings><overall min="1" max="5">5</overall></ratings>
+      <products><product><product_ids>
+            <mpns><mpn>1508986570</mpn></mpns>
+            <brands><brand>Nasara</brand></brands>
+      </product_ids>
+      <product_name>Кинезио тейп Nasara 5м х 5см (Оранжевый)</product_name>
+      <product_url>https://medhome.in.ua/p1508986570-kinezio-tejp-nasara.html?source=merchant_center</product_url>
+      </product></products>
+    </review>
+    <review>
+      <review_id>f1c35f722719</review_id>
+      <reviewer><n>Віктор Л.</n></reviewer>
+      <review_timestamp>2026-08-20T18:03:45+02:00</review_timestamp>
+      <content>Відмінний товар. Гарне обслуговування. Актуальний опис. Швидко відправили. Ввічливий продавець. Актуальна ціна. Товар був у наявності</content>
+      <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
+      <ratings><overall min="1" max="5">5</overall></ratings>
+      <products><product><product_ids>
+            <mpns><mpn>1511565712</mpn></mpns>
+            <brands><brand>Dr Orto</brand></brands>
+      </product_ids>
+      <product_name>Тапочки диабетические, для проблемных ног мужские DrOrto 125 M 006 44</product_name>
+      <product_url>https://medhome.in.ua/p1511565712-tapochki-diabeticheskie-dlya.html?source=merchant_center</product_url>
+      </product></products>
+    </review>
+    <review>
+      <review_id>608f2fdad621</review_id>
+      <reviewer><n>Олена Б.</n></reviewer>
+      <review_timestamp>2026-08-20T16:47:03+02:00</review_timestamp>
+      <content>Відмінний товар</content>
+      <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
+      <ratings><overall min="1" max="5">5</overall></ratings>
+      <products><product><product_ids>
+            <mpns><mpn>2527379205</mpn></mpns>
+            <brands><brand>Олви</brand></brands>
+      </product_ids>
+      <product_name>Массажная палочка для глубокого массажа мышц</product_name>
+      <product_url>https://medhome.in.ua/p2527379205-massazhnaya-palochka-dlya.html?source=merchant_center</product_url>
+      </product></products>
+    </review>
+    <review>
+      <review_id>5a0eea8daa77</review_id>
+      <reviewer><n>Олег П.</n></reviewer>
+      <review_timestamp>2026-08-18T18:13:32+02:00</review_timestamp>
+      <content>Відмінний товар. Гарне обслуговування. Актуальний опис. Швидко відправили. Ввічливий продавець. Актуальна ціна. Товар був у наявності</content>
+      <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
+      <ratings><overall min="1" max="5">5</overall></ratings>
+      <products><product><product_ids>
+            <mpns><mpn>1882067032</mpn></mpns>
+            <brands><brand>Медика</brand></brands>
+      </product_ids>
+      <product_name>ДЭ-10 Дистиллятор (Аквадистиллятор) "МЕДИКА"</product_name>
+      <product_url>https://medhome.in.ua/p1882067032-distillyator-akvadistillyator-medika.html?source=merchant_center</product_url>
+      </product></products>
+    </review>
+    <review>
+      <review_id>b7b82be31039</review_id>
+      <reviewer><n>Вячеслав Б.</n></reviewer>
+      <review_timestamp>2026-08-17T14:14:27+02:00</review_timestamp>
+      <content>Відмінний товар. Гарне обслуговування</content>
+      <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
+      <ratings><overall min="1" max="5">5</overall></ratings>
+      <products><product><product_ids>
+            <mpns><mpn>1511580977</mpn></mpns>
+            <brands><brand>Dr Orto</brand></brands>
+      </product_ids>
+      <product_name>Сабо мужские медицинские Dr Orto Med 157M104 44</product_name>
+      <product_url>https://medhome.in.ua/p1511580977-sabo-muzhskie-meditsinskie.html?source=merchant_center</product_url>
+      </product></products>
+    </review>
+    <review>
       <review_id>b5c17e4d23a0</review_id>
       <reviewer><n>Олексій І.</n></reviewer>
       <review_timestamp>2026-08-16T11:02:47+02:00</review_timestamp>
@@ -12364,8 +12439,8 @@
       </product></products>
     </review>
     <review>
-      <review_id>5604169fa8ad</review_id>
-      <reviewer><n>Андрій П.</n></reviewer>
+      <review_id>37891aea209b</review_id>
+      <reviewer><n>Пономаренко А.</n></reviewer>
       <review_timestamp>2025-03-18T16:25:05+02:00</review_timestamp>
       <content>Відмінний товар. Швидко відправили</content>
       <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
@@ -13759,8 +13834,8 @@
       </product></products>
     </review>
     <review>
-      <review_id>7ba03a0be608</review_id>
-      <reviewer><n>Юлия Н.</n></reviewer>
+      <review_id>9aed725cc347</review_id>
+      <reviewer><n>Юлія Н.</n></reviewer>
       <review_timestamp>2025-02-25T18:29:22+02:00</review_timestamp>
       <content>дякую,все круто</content>
       <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
@@ -14044,8 +14119,8 @@
       </product></products>
     </review>
     <review>
-      <review_id>e005445b893c</review_id>
-      <reviewer><n>Наталия Ф.</n></reviewer>
+      <review_id>f4e0ddeb5907</review_id>
+      <reviewer><n>Наталія Ф.</n></reviewer>
       <review_timestamp>2025-02-22T14:49:22+02:00</review_timestamp>
       <content>Відмінний товар</content>
       <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
@@ -20809,8 +20884,8 @@
       </product></products>
     </review>
     <review>
-      <review_id>3e4553be8232</review_id>
-      <reviewer><n>Игорь Х.</n></reviewer>
+      <review_id>c996a17224b6</review_id>
+      <reviewer><n>Ігор Х.</n></reviewer>
       <review_timestamp>2024-12-03T23:25:57+02:00</review_timestamp>
       <content>Відмінний товар</content>
       <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
@@ -23359,8 +23434,8 @@
       </product></products>
     </review>
     <review>
-      <review_id>b5c9abdbae28</review_id>
-      <reviewer><n>Людмила</n></reviewer>
+      <review_id>a9a64e4a84ad</review_id>
+      <reviewer><n>Людмила М.</n></reviewer>
       <review_timestamp>2024-11-03T21:39:12+02:00</review_timestamp>
       <content>Відмінний товар</content>
       <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
@@ -23809,8 +23884,8 @@
       </product></products>
     </review>
     <review>
-      <review_id>efe5e6c07ee6</review_id>
-      <reviewer><n>Евеліна А.</n></reviewer>
+      <review_id>ac6bf1ffc28b</review_id>
+      <reviewer><n>Эвелина А.</n></reviewer>
       <review_timestamp>2024-10-30T19:13:28+02:00</review_timestamp>
       <content>Відмінний товар</content>
       <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
@@ -25609,8 +25684,8 @@
       </product></products>
     </review>
     <review>
-      <review_id>38f6cb96fc0e</review_id>
-      <reviewer><n>Александр К.</n></reviewer>
+      <review_id>941d5c5b5e65</review_id>
+      <reviewer><n>Кримов О.</n></reviewer>
       <review_timestamp>2024-10-12T09:25:06+02:00</review_timestamp>
       <content>Відмінний товар. Гарне обслуговування. Актуальний опис. Швидко зв'язались. Швидко відправили. Ввічливий продавець. Актуальна ціна. Товар був у наявності</content>
       <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
@@ -26959,8 +27034,8 @@
       </product></products>
     </review>
     <review>
-      <review_id>ee1504097dd3</review_id>
-      <reviewer><n>Валерій І.</n></reviewer>
+      <review_id>d5807be7fa63</review_id>
+      <reviewer><n>Іванов В.</n></reviewer>
       <review_timestamp>2024-09-28T21:33:36+02:00</review_timestamp>
       <content>Класна річ!Якістю задоволенний!Тягне равномірно, мені зручно.головне не перестаратися)).. Гарне обслуговування. Актуальний опис. Швидко зв'язались. Швидко відправили. Ввічливий продавець. Актуальна ціна. Товар був у наявності</content>
       <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
@@ -26974,8 +27049,8 @@
       </product></products>
     </review>
     <review>
-      <review_id>e5ed429aa817</review_id>
-      <reviewer><n>Віталій Б.</n></reviewer>
+      <review_id>39015913f5bb</review_id>
+      <reviewer><n>Катя Б.</n></reviewer>
       <review_timestamp>2024-09-28T19:14:45+02:00</review_timestamp>
       <content>Відмінний товар</content>
       <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
@@ -28579,8 +28654,8 @@
       </product></products>
     </review>
     <review>
-      <review_id>90b236adb5d4</review_id>
-      <reviewer><n>Лідія М.</n></reviewer>
+      <review_id>c2ffecae9e7b</review_id>
+      <reviewer><n>Лидия М.</n></reviewer>
       <review_timestamp>2024-09-12T13:27:48+02:00</review_timestamp>
       <content>Відмінний товар. Гарне обслуговування. Швидко зв'язались</content>
       <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
@@ -32314,8 +32389,8 @@
       </product></products>
     </review>
     <review>
-      <review_id>ab678e759d72</review_id>
-      <reviewer><n>Валентина У.</n></reviewer>
+      <review_id>77526a593b7d</review_id>
+      <reviewer><n>Ушканова В.</n></reviewer>
       <review_timestamp>2024-08-07T17:34:09+02:00</review_timestamp>
       <content>Відмінний товар</content>
       <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
@@ -38299,8 +38374,8 @@
       </product></products>
     </review>
     <review>
-      <review_id>0a423b8d9480</review_id>
-      <reviewer><n>Володимир В.</n></reviewer>
+      <review_id>4ad6791abe5c</review_id>
+      <reviewer><n>Наталія В.</n></reviewer>
       <review_timestamp>2024-06-05T18:48:16+02:00</review_timestamp>
       <content>Тонометр показує великі відхилення.Шкода.. Гарне обслуговування. Швидко зв'язались. Швидко відправили. Ввічливий продавець. Товар був у наявності</content>
       <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
@@ -39199,8 +39274,8 @@
       </product></products>
     </review>
     <review>
-      <review_id>3a6a13f6f9bb</review_id>
-      <reviewer><n>сергей п.</n></reviewer>
+      <review_id>24071634a75f</review_id>
+      <reviewer><n>Сергій П.</n></reviewer>
       <review_timestamp>2024-05-28T15:45:45+02:00</review_timestamp>
       <content>Відмінний товар. Ввічливий продавець. Актуальна ціна</content>
       <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
@@ -40234,8 +40309,8 @@
       </product></products>
     </review>
     <review>
-      <review_id>759c2369a658</review_id>
-      <reviewer><n>Андрей Н.</n></reviewer>
+      <review_id>f4d53a8b750e</review_id>
+      <reviewer><n>Андрій Н.</n></reviewer>
       <review_timestamp>2024-05-18T16:53:25+02:00</review_timestamp>
       <content>частини товару не було в наявності. Гарне обслуговування. Актуальний опис. Швидко зв'язались. Швидко відправили</content>
       <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
@@ -42904,8 +42979,8 @@
       </product></products>
     </review>
     <review>
-      <review_id>2cee170073f5</review_id>
-      <reviewer><n>Алексей Д.</n></reviewer>
+      <review_id>ae71701b3809</review_id>
+      <reviewer><n>Олексій Д.</n></reviewer>
       <review_timestamp>2024-04-20T23:06:46+02:00</review_timestamp>
       <content>Відмінний товар. Швидко відправили</content>
       <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
@@ -42919,8 +42994,8 @@
       </product></products>
     </review>
     <review>
-      <review_id>41a7ca738bd8</review_id>
-      <reviewer><n>Алексей Д.</n></reviewer>
+      <review_id>8d3657b72948</review_id>
+      <reviewer><n>Олексій Д.</n></reviewer>
       <review_timestamp>2024-04-20T23:06:46+02:00</review_timestamp>
       <content>Відмінний товар. Швидко відправили</content>
       <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
@@ -42934,8 +43009,8 @@
       </product></products>
     </review>
     <review>
-      <review_id>25d39ac69932</review_id>
-      <reviewer><n>Алексей Д.</n></reviewer>
+      <review_id>532ffafae3fd</review_id>
+      <reviewer><n>Олексій Д.</n></reviewer>
       <review_timestamp>2024-04-20T23:06:46+02:00</review_timestamp>
       <content>Відмінний товар. Швидко відправили</content>
       <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
@@ -44434,8 +44509,8 @@
       </product></products>
     </review>
     <review>
-      <review_id>8fb2f2f9fbb3</review_id>
-      <reviewer><n>Решетнік Л.</n></reviewer>
+      <review_id>eb6009bbbf7e</review_id>
+      <reviewer><n>Лілія Р.</n></reviewer>
       <review_timestamp>2024-04-09T14:02:33+02:00</review_timestamp>
       <content>Відмінний товар</content>
       <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
@@ -53344,8 +53419,8 @@
       </product></products>
     </review>
     <review>
-      <review_id>0019f72c86d0</review_id>
-      <reviewer><n>Сергій К.</n></reviewer>
+      <review_id>62397b177fe6</review_id>
+      <reviewer><n>Сергей К.</n></reviewer>
       <review_timestamp>2024-01-24T23:51:11+02:00</review_timestamp>
       <content>Відмінний товар</content>
       <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
@@ -53359,8 +53434,8 @@
       </product></products>
     </review>
     <review>
-      <review_id>0b95d819d5b8</review_id>
-      <reviewer><n>Сергій К.</n></reviewer>
+      <review_id>1e51227b9c5b</review_id>
+      <reviewer><n>Сергей К.</n></reviewer>
       <review_timestamp>2024-01-24T23:51:11+02:00</review_timestamp>
       <content>Відмінний товар</content>
       <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
@@ -55114,8 +55189,8 @@
       </product></products>
     </review>
     <review>
-      <review_id>bc614226666f</review_id>
-      <reviewer><n>Таня К.</n></reviewer>
+      <review_id>d5d26e76a4ce</review_id>
+      <reviewer><n>Татьяна К.</n></reviewer>
       <review_timestamp>2024-01-04T21:19:28+02:00</review_timestamp>
       <content>Відмінний товар. Гарне обслуговування. Актуальний опис. Швидко зв'язались. Швидко відправили. Ввічливий продавець. Актуальна ціна. Товар був у наявності</content>
       <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
@@ -57604,8 +57679,8 @@
       </product></products>
     </review>
     <review>
-      <review_id>faf9a5e745ee</review_id>
-      <reviewer><n>елена т.</n></reviewer>
+      <review_id>a2abb837bae4</review_id>
+      <reviewer><n>Олена Т.</n></reviewer>
       <review_timestamp>2023-12-11T18:29:54+02:00</review_timestamp>
       <content>Відмінний товар</content>
       <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
@@ -58339,8 +58414,8 @@
       </product></products>
     </review>
     <review>
-      <review_id>333f381a5bfe</review_id>
-      <reviewer><n>Наталья М.</n></reviewer>
+      <review_id>46decb5c85a0</review_id>
+      <reviewer><n>Наталія М.</n></reviewer>
       <review_timestamp>2023-12-04T17:52:00+02:00</review_timestamp>
       <content>Відмінний товар. Гарне обслуговування. Актуальний опис. Ввічливий продавець. Актуальна ціна. Товар був у наявності</content>
       <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
@@ -58354,8 +58429,8 @@
       </product></products>
     </review>
     <review>
-      <review_id>0984f9f36f8f</review_id>
-      <reviewer><n>Наталья М.</n></reviewer>
+      <review_id>291e3f851fa1</review_id>
+      <reviewer><n>Наталія М.</n></reviewer>
       <review_timestamp>2023-12-04T17:52:00+02:00</review_timestamp>
       <content>Відмінний товар. Гарне обслуговування. Актуальний опис. Ввічливий продавець. Актуальна ціна. Товар був у наявності</content>
       <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
@@ -58369,8 +58444,8 @@
       </product></products>
     </review>
     <review>
-      <review_id>8138c36d83e3</review_id>
-      <reviewer><n>Наталья М.</n></reviewer>
+      <review_id>9ac4c521dd1a</review_id>
+      <reviewer><n>Наталія М.</n></reviewer>
       <review_timestamp>2023-12-04T17:52:00+02:00</review_timestamp>
       <content>Відмінний товар. Гарне обслуговування. Актуальний опис. Ввічливий продавець. Актуальна ціна. Товар був у наявності</content>
       <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
@@ -59479,8 +59554,8 @@
       </product></products>
     </review>
     <review>
-      <review_id>0230a2ce3e10</review_id>
-      <reviewer><n>виктор г.</n></reviewer>
+      <review_id>d1ea3587bcc0</review_id>
+      <reviewer><n>Віктор Г.</n></reviewer>
       <review_timestamp>2023-11-23T07:55:31+02:00</review_timestamp>
       <content>Відмінний товар. Актуальний опис. Швидко відправили. Товар був у наявності</content>
       <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
@@ -60589,8 +60664,8 @@
       </product></products>
     </review>
     <review>
-      <review_id>6cd580ddc57e</review_id>
-      <reviewer><n>Остап Г.</n></reviewer>
+      <review_id>25ee4469e032</review_id>
+      <reviewer><n>Ярослав К.</n></reviewer>
       <review_timestamp>2023-11-09T13:10:26+02:00</review_timestamp>
       <content>Відмінний товар</content>
       <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
@@ -65074,8 +65149,8 @@
       </product></products>
     </review>
     <review>
-      <review_id>77fd0bcde640</review_id>
-      <reviewer><n>Покупець</n></reviewer>
+      <review_id>916247f7ab00</review_id>
+      <reviewer><n>Віталій Л.</n></reviewer>
       <review_timestamp>2023-08-11T05:03:14+02:00</review_timestamp>
       <content>Молодці. Дуже швидко і оперативно. Ввічливо. Успіхів вам❤️!. Гарне обслуговування. Актуальний опис. Швидко зв'язались. Швидко відправили. Ввічливий продавець. Актуальна ціна. Товар був у наявності</content>
       <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
@@ -69964,8 +70039,8 @@
       </product></products>
     </review>
     <review>
-      <review_id>7ed71760e95d</review_id>
-      <reviewer><n>Валентина А.</n></reviewer>
+      <review_id>9f3ca3b693dd</review_id>
+      <reviewer><n>Тамара Б.</n></reviewer>
       <review_timestamp>2023-06-19T13:06:30+02:00</review_timestamp>
       <content>Відмінний товар. Гарне обслуговування. Швидко відправили. Товар був у наявності</content>
       <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
@@ -77764,8 +77839,8 @@
       </product></products>
     </review>
     <review>
-      <review_id>a96c9118de4f</review_id>
-      <reviewer><n>Виктор С.</n></reviewer>
+      <review_id>d5c27ba9757e</review_id>
+      <reviewer><n>Віктор С.</n></reviewer>
       <review_timestamp>2023-01-19T12:00:23+02:00</review_timestamp>
       <content>Відмінний товар. Гарне обслуговування</content>
       <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
@@ -78889,8 +78964,8 @@
       </product></products>
     </review>
     <review>
-      <review_id>40a3dbcd2ff9</review_id>
-      <reviewer><n>Татьяна С.</n></reviewer>
+      <review_id>d001cd322dcc</review_id>
+      <reviewer><n>Тетяна С.</n></reviewer>
       <review_timestamp>2022-12-28T22:03:24+02:00</review_timestamp>
       <content>Відмінний товар</content>
       <review_url type="group">https://medhome.in.ua/ua/testimonials</review_url>
